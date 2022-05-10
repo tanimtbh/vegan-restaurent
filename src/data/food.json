@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Dishes",
+    "category": "dishes",
+    "photo": "dish.jpeg",
+    "link": "/dishes",
+    "description": " All of our foods are 100% fresh and natural and we dont kill animal for makeing our food."
+  },
+
+  {
+    "id": 2,
+    "title": "Desserts",
+    "category": "desserts",
+    "photo": "desserts.jpg",
+    "link": "/desserts",
+    "description": " All of our foods are 100% fresh and natural and we dont kill animal for makeing our food."
+  },
+
+  {
+    "id": 3,
+    "title": "Drinks",
+    "category": "drinks",
+    "photo": "drinks.jpeg",
+    "link": "/drinks",
+    "description": " All of our foods are 100% fresh and natural and we dont kill animal for makeing our food."
+  }
+]

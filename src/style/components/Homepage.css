@@ -1,0 +1,25 @@
+.hero {
+  background-image: url("/src/assets/images/Vegan-restaurant.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  min-width: 100vw;
+  display: grid;
+  justify-items: center;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+.highlight {
+  background-color: rgb(0, 0, 0);
+  opacity: 0.6;
+  color: white;
+  display: block;
+}
+
+.homepage {
+  overflow: hidden;
+}
+#slogan {
+  display: inline-block;
+}

@@ -1,0 +1,11 @@
+@import "./base/typography.css";
+@import "./base/layout.css";
+
+@import "./components/contacts.css";
+@import "./components/Footer.css";
+@import "./components/HomeMenu.css";
+@import "./components/Homepage.css";
+@import "./components/Menu.css";
+@import "./components/Navbar.css";
+@import "./components/Product.css";
+@import "components/FoodList.css";

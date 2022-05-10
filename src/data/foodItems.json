@@ -1,0 +1,183 @@
+[
+  {
+    "id": 1,
+    "title": "Beans-curry",
+    "category": "dishes",
+    "photo": "beans-curry.png",
+    "description": "Spicy curry with freash beans",
+    "ingredients": ["salt", "pepper", "water", "beans"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "145" },
+      { "id": 2, "name": "fat", "amount": "7g" },
+      { "id": 3, "name": "cholesterol", "amount": "28mg" },
+      { "id": 4, "name": "sodium", "amount": "356mg" },
+      { "id": 5, "name": "protein", "amount": "8g" }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Bowl with Tofu",
+    "category": "dishes",
+    "photo": "budda-bowl-with-tofu.png",
+    "description": "Hot vegatables mixed with tofu",
+    "ingredients": ["tofu", "pepper", "water", "seeds"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "130" },
+      { "id": 2, "name": "fat", "amount": "9g" },
+      { "id": 3, "name": "cholesterol", "amount": "21mg" },
+      { "id": 4, "name": "sodium", "amount": "135mg" },
+      { "id": 5, "name": "protein", "amount": "28g" }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Quinua salad",
+    "category": "dishes",
+    "photo": "Quinua-salad.png",
+    "description": "Fresh salad directly from farm",
+    "ingredients": ["salt", "oil", "salad", "quinua"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "120" },
+      { "id": 2, "name": "fat", "amount": "19g" },
+      { "id": 3, "name": "cholesterol", "amount": "20mg" },
+      { "id": 4, "name": "sodium", "amount": "158mg" },
+      { "id": 5, "name": "protein", "amount": "18g" }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Falafel",
+    "category": "dishes",
+    "photo": "falafel.png",
+    "description": "Home made falafel with greate taste",
+    "ingredients": ["salt", "pepper", "water", "seeds"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "300" },
+      { "id": 2, "name": "fat", "amount": "29g" },
+      { "id": 3, "name": "cholesterol", "amount": "24mg" },
+      { "id": 4, "name": "sodium", "amount": "89mg" },
+      { "id": 5, "name": "protein", "amount": "28g" }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Vegan-cakes",
+    "category": "desserts",
+    "photo": "vegan-cakes.png",
+    "description": "awasome vegan cake with berries",
+    "ingredients": ["berries", "suagr", "wheat", "salt"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "270" },
+      { "id": 2, "name": "fat", "amount": "59g" },
+      { "id": 3, "name": "cholesterol", "amount": "25mg" },
+      { "id": 4, "name": "sodium", "amount": "56mg" },
+      { "id": 5, "name": "protein", "amount": "48g" }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Pie",
+    "category": "desserts",
+    "photo": "Pie.png",
+    "description": "Vegan pie with mixed fruits",
+    "ingredients": ["fruits", "sugar", "water", "salt"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "280" },
+      { "id": 2, "name": "fat", "amount": "19g" },
+      { "id": 3, "name": "cholesterol", "amount": "27mg" },
+      { "id": 4, "name": "sodium", "amount": "56mg" },
+      { "id": 5, "name": "protein", "amount": "6g" }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Icecream",
+    "category": "desserts",
+    "photo": "icecream.jpeg",
+    
+    "description": "Vegan icecream with mixed fruits",
+    "ingredients": ["sugar", "water", "salt", "fruits"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "270" },
+      { "id": 2, "name": "fat", "amount": "90g" },
+      { "id": 3, "name": "cholesterol", "amount": "28mg" },
+      { "id": 4, "name": "sodium", "amount": "234mg" },
+      { "id": 5, "name": "protein", "amount": "9g" }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Macaron",
+    "category": "desserts",
+    "photo": "macaron.jpeg",
+    "description": "Awasome vegan mecanron mixed with chocklates",
+    "ingredients": ["sugar", "rice", "water", "fruits"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "250" },
+      { "id": 2, "name": "fat", "amount": "96g" },
+      { "id": 3, "name": "cholesterol", "amount": "29mg" },
+      { "id": 4, "name": "sodium", "amount": "145mg" },
+      { "id": 5, "name": "protein", "amount": "7g" }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Coconut drinks",
+    "category": "drinks",
+    "photo": "coconut-drink.png",
+    "description": "Pure coconut drink directly from farm",
+    "ingredients": ["coconut", "water", "sugar", "salt"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "220" },
+      { "id": 2, "name": "fat", "amount": "92g" },
+      { "id": 3, "name": "cholesterol", "amount": "24mg" },
+      { "id": 4, "name": "sodium", "amount": "123mg" },
+      { "id": 5, "name": "protein", "amount": "6g" }
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Nut-juice",
+    "category": "drinks",
+    "photo": "nut-juice.png",
+    "description": "Home made fresh nut juice",
+    "ingredients": ["nut", "water", "suger", "salt"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "190" },
+      { "id": 2, "name": "fat", "amount": "89g" },
+      { "id": 3, "name": "cholesterol", "amount": "12mg" },
+      { "id": 4, "name": "sodium", "amount": "367mg" },
+      { "id": 5, "name": "protein", "amount": "5g" }
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Smothie",
+    "category": "drinks",
+    "photo": "coconut-hd.jpg",
+    "description": "awesome smothie from mixed fruits ",
+    "ingredients": ["sugar", "fruits", "water", "salt"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "180" },
+      { "id": 2, "name": "fat", "amount": "79g" },
+      { "id": 3, "name": "cholesterol", "amount": "52mg" },
+      { "id": 4, "name": "sodium", "amount": "345mg" },
+      { "id": 5, "name": "protein", "amount": "6g" }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Ice coffe",
+    "category": "drinks",
+    "photo": "coffe.jpg",
+    "description": "Ready made cold coffe with ice",
+    "ingredients": ["coffe", "ice", "water", "sugar"],
+    "nutrition": [
+      { "id": 1, "name": "calories", "amount": "240" },
+      { "id": 2, "name": "fat", "amount": "69g" },
+      { "id": 3, "name": "cholesterol", "amount": "67mg" },
+      { "id": 4, "name": "sodium", "amount": "123mg" },
+      { "id": 5, "name": "protein", "amount": "18g" }
+    ]
+  }
+]

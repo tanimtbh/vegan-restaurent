@@ -1,0 +1,37 @@
+li {
+  list-style-type: none;
+  margin-right: 1rem;
+}
+li a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: rgb(245, 236, 240);
+  background-color: rgb(19, 19, 19);
+}
+
+.navbar {
+  position: fixed;
+  top: 0;
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: black;
+}
+.logo-img {
+  background-color: aliceblue;
+  color: black;
+  width: 50px;
+  height: auto;
+}
+.nav-link {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.logo {
+  margin-left: 0.1rem;
+}

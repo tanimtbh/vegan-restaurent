@@ -1,0 +1,28 @@
+.food-list {
+ 
+  margin: 0.5rem;
+  overflow-x: hidden;
+  }
+  
+
+  .card-details {
+    padding: 2rem;
+    margin-right: 1rem;
+  }
+  .Link-button {
+    border-style: groove;
+    padding: 7px;
+    margin-top: 1rem;
+    border-radius: 10px;
+    text-decoration: none;
+    color: black;
+  }
+  @media (min-width: 750px) {
+    .food-list{
+      margin-top: 0.5rem;
+      border-style: groove;
+      margin: 0.5rem;
+      display: flex;
+    }
+  }
+  

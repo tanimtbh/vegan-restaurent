@@ -1,0 +1,40 @@
+.home-menu {
+  border-style: groove;
+  margin: 0.5rem;
+  overflow-x: hidden;
+  
+}
+
+.card-img {
+  max-width: 450px;
+  width: 100%;
+}
+.card-description {
+  padding-right: 1rem;
+  margin-right: 1rem;
+}
+
+.card-details {
+  padding: 2rem;
+  width: 100%;
+}
+.Link-button {
+  border-style: groove;
+  padding: 7px;
+  margin-top: 1rem;
+  border-radius: 10px;
+  text-decoration: none;
+  color: black;
+}
+@media screen and (min-width: 750px) {
+  .home-menu {
+    border-style: groove;
+    margin: 0.5rem;
+    display: flex;
+    flex-direction: row;
+  }
+  .home-menu:nth-child(even){
+    flex-direction: row-reverse;
+  }
+
+}
